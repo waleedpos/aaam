@@ -1,6 +1,6 @@
 nullcave.club
 
-## About Ultimate POS
+## About Mtajer Pos
 
 Ultimate POS is a POS application by [Ultimate Fosters](http://ultimatefosters.com), a brand of [The Web Fosters](http://thewebfosters.com).
 
